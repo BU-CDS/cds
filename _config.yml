@@ -1,0 +1,3 @@
+# Publish only the redirect pages; README and CHANGELOG stay repo-only.
+exclude: [README.md, CHANGELOG.md]
+theme: null
